@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="https://aquagen.no/wp-content/uploads/2023/04/ag-logo-portrait_orange.svg" width="650" title="https://www.aquagen.no">
+  <img src="https://aquagen.no/wp-content/uploads/2023/04/ag-logo-portrait_orange.svg" width="500" title="https://www.aquagen.no">
 </p>
 
 ## Overview
